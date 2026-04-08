@@ -1,5 +1,3 @@
-
-
 #  Microsoft Stock Price Forecasting using Stacked LSTM
 
 ##  Project Overview
@@ -67,9 +65,9 @@ Historical stock data is collected using the `yfinance` API, preprocessed, and u
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-* Python 🐍
+* Python 
 * NumPy
 * Pandas
 * Matplotlib
@@ -79,7 +77,7 @@ Historical stock data is collected using the `yfinance` API, preprocessed, and u
 
 ---
 
-## 📈 Results
+## Results
 
 * Model successfully captures stock price trends
 * Reasonable prediction accuracy on test data
@@ -88,7 +86,7 @@ Historical stock data is collected using the `yfinance` API, preprocessed, and u
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── finance_Project.ipynb   # Main notebook
@@ -98,7 +96,7 @@ Historical stock data is collected using the `yfinance` API, preprocessed, and u
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -121,7 +119,7 @@ jupyter notebook finance_Project.ipynb
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Hyperparameter tuning for better accuracy
 * Use of GRU / Transformer models
@@ -131,13 +129,13 @@ jupyter notebook finance_Project.ipynb
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome! Feel free to fork and improve the project.
 
 ---
 
-## 📧 Contact
+## Contact Information 
 
 Himanshu Beri
 Himanshuberi1606@gmail.com
